@@ -19,7 +19,7 @@ function HeroSection({
     <>
       <div
         className={
-          lightBg ? "home__hero-section" : "home__hero--section darkBg"
+          lightBg ? "home__hero-section" : "home__hero-section darkBg"
         }
       >
         <div className="container">
